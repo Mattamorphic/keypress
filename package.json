@@ -1,6 +1,6 @@
 {
   "name": "@mattamorphic/keypress",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Keypress Package",
   "main": "dist/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository":"git://github.com/Mattamorphic/keypress.git",
+  "repository": "git://github.com/Mattamorphic/keypress.git",
   "keywords": [
     "package",
     "javascript",
